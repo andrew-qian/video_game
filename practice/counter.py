@@ -2,14 +2,6 @@ import time
 
 # use time.time() to get the time in seconds
 
-'''x = time.time()
-elapsed = 0
-numbers = 0
-
-while True:
-    y = time.time
-    elapsed = int(numbers
-'''
 start_time = time.time()
 end_time = time.time()
 time_difference = (end_time - start_time)
